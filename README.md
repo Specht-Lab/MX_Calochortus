@@ -27,6 +27,7 @@ Below is the software versions and libraries needed to run the scripts.
 Briefly describe where the raw data came from (e.g., GBIF, GenBank, or private field collections).
 
 * **Occurrences:** [Link to GBIF download](https://doi.org/10.15468/dl.uhm6ek)
+* **Environmental Data:** [Link to WorldClim files](https://www.worldclim.org/data/worldclim21.html)
 
 ## Contact
 If you have an questions regarding the scripts, feel free to reach out to me at the email below. 
