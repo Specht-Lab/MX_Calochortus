@@ -34,4 +34,4 @@ If you have an questions regarding the scripts, feel free to reach out to me at 
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/juliharden)
 
--- Happy Coding!
+- Happy Coding!
