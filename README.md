@@ -15,7 +15,7 @@ Below is the software versions and libraries needed to run the scripts.
 
 | Folder | Description |
 | --- | --- |
-| `00_General_Data` | <i>Calochortus</i> morphological character matrix. |
+| `00_Calochortus_Matrix` | <i>Calochortus</i> morphological character matrix. |
 | `01_Species_Distribution_Phylogeny` | R script for coloring the branches of the phylogeny according to their geographic distribution. |
 | `02_MX_Clade_AOO` | R script for estimating the Area of Origin (AOO) for the Mexican Clade of <i>Calochortus</i>. |
 | `03_Driver_of_Speciations` | R scripts of the statistical tests for identifying drivers of speciation. |
